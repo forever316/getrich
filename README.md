@@ -1,0 +1,2 @@
+# getrich
+getrich项目
